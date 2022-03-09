@@ -1,0 +1,136 @@
+.container{
+    max-width : 1080px;
+    margin : 20px auto;
+    background : #fff;
+    overflow : hidden;
+    padding : 10px;
+    height: auto;
+   }
+
+.header{
+    border : 1px solid #dedede;
+    padding : 10px;
+    margin : 10px;
+    background: url(coklat1.jpg);
+    text-align: center;
+    color: white;
+   } 
+
+.h2{
+    text-align: center;
+    }
+.ol{
+    border-bottom: #9E9AFB;
+}
+.left h2{
+    text-align: center;
+    font-family: 'Trebuchet MS';
+    font-size: 30px;
+    background-color: darkred;
+    color: white;
+}
+.left{
+    width : 200px;
+    border : 1px solid #dedede;
+    padding : 10px;
+    margin : 10px;
+    float : left;
+    font-family: 'Trebuchet MS';
+    }
+.left ul{
+    list-style-type : none;
+    }
+.left ul li{
+    display : block;
+    }
+.left ul li a{
+    display :block;
+    border-bottom : 1px solid #dedede; 
+    margin-bottom : 10px;
+    padding : 10px 5px;
+    color : #080711;
+    text-decoration: none;
+    font-family: 'Trebuchet MS';
+    font-size: 20px;
+    background-color: chocolate;
+    color: white;
+    }
+.left ul li a:hover{
+    color:#461AF3;
+    } 
+
+.middle h2{
+    text-align: center;
+    font-family: 'Trebuchet MS';
+    font-size: 30px;
+    background-color: darkred;
+    color: white;
+}
+.middle{
+    width : 500px;
+    border : 1px solid #dedede;
+    padding : 10px;
+    margin : 10px;
+    float : left;
+    color: #080711;
+    font-size: auto;
+    }
+.middle img{
+    max-width : 100%;
+    height : auto;
+    }
+.middle a{
+    color: #080711;
+    text-decoration: none;
+    border-bottom : 1px solid #dedede;
+    font-size: 20px;
+    font-family: 'Trebuchet MS';
+    background-color: chocolate;
+    color: white;
+    }
+.right h2{
+    text-align: center;
+    font-family: 'Trebuchet MS';
+    font-size: auto;
+    background-color: darkred;
+    color: white;
+}
+.right{
+    width : 200px;
+    border : 1px solid #dedede;
+    padding : 10px;
+    margin : 10px;
+    float : left;
+    }
+.right ul{
+    list-style-type : none;
+    }
+.right ul li{
+    display : block;
+    }
+.right ul li a{
+    display :block;
+    border-bottom : 1px solid #dedede;
+    margin-bottom : 10px;
+    padding : 10px 5px;
+    color: #080711;
+    text-decoration: none;
+    font-family: 'Trebuchet MS';
+    font-size: 20px;
+    background-color: chocolate;
+    color: white;
+    }
+.right ul li a:hover{
+    color :#461AF3;
+    }
+    
+.footer{
+    text-align: center;
+    clear : both;
+    border : 1px solid #dedede;
+    padding : 15px;
+    margin : 10px;
+    background :url(coklat2.jpg);
+    font-size: 20px;
+    color: white;
+    }
